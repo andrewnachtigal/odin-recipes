@@ -1,4 +1,4 @@
 # odin-recipes
 
-write a brief introduction describing what the current project is:
+My first webpage is a simple recipe page, borrowed entirely from KLA.
 
